@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(255, 190, 232);
+    
+    height: 100vh;
+}
+.head{
+    text-align: center;
+    font-size: 7rem;
+    color: purple;
+    margin-bottom: 10px;
+}
+.subhead{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(139, 17, 139);
+}
+.container{
+    display: flex;
+    gap: 50px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    border: solid 2px purple;
+    border-radius: 20px;
+    padding: 30px 30px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box p{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
